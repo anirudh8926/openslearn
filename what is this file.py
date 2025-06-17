@@ -1,0 +1,1 @@
+info  {"purpose" : "this is to initialize a repository, in order to get a feel for how git works, as I'll need it to start working on opensource stuff", "scale" : "the scale of this repository is not fixed, but I expect it to be as large and as far reaching as it might need to be in order to have me confident and adept at usign git and github."}
